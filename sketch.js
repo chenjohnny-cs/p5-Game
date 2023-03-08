@@ -20,13 +20,13 @@ function setup() {
     createCanvas(500, 500);
     background(220);
 
-    xSpeed = 6;
-    ySpeed = 6;
+    xSpeed = 12;
+    ySpeed = 12;
 
     
 
-    playerOne = new bouncer(210, 465, 90, 12, 6);
-    playerTwo = new bouncer(210, 35, 90, 12, 6);
+    playerOne = new bouncer(210, 465, 45, 6, 12);
+    playerTwo = new bouncer(210, 35, 45, 6, 12);
 
     
 }
