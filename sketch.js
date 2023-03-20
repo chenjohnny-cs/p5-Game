@@ -20,8 +20,8 @@ function setup() {
     createCanvas(500, 500);
     background(220);
 
-    xSpeed = 12;
-    ySpeed = 12;
+    xSpeed = 5;
+    ySpeed = 5;
 
     
 
